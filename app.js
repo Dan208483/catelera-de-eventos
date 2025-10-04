@@ -5,6 +5,7 @@ let cart = JSON.parse(localStorage.getItem("cart")) || [];
 async function loadEvents() {
   const res = await fetch("data/events.json");
   events = await res.json();
+  console.log("Eventos cargados:", events);
   renderCatalog(events);
 }
 
