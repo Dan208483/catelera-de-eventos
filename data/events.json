@@ -170,5 +170,25 @@
       "refund": "Evento gratuito"
     },
     "description": "Proyección gratuita de películas clásicas bajo las estrellas."
+  },
+  {
+    "id": "evt-0011",
+    "title": "Expo Gamer 2025",
+    "category": "otros",
+    "artists": ["eSports League", "Cosplayers Pro"],
+    "city": "Madrid",
+    "venue": "IFEMA Feria de Madrid",
+    "datetime": "2025-11-28T10:00:00-01:00",
+    "priceFrom": 50.00,
+    "currency": "EUR",
+    "stock": 5000,
+    "soldOut": false,
+    "popularity": 92,
+    "images": ["assets/evt-0011.jpg"],
+    "policies": {
+      "age": "Todas las edades",
+      "refund": "Reembolso parcial hasta 3 días antes"
+  },
+  "description": "La feria gamer más grande de España, con torneos de eSports, stands de tecnología y concursos de cosplay."
   }
 ]
