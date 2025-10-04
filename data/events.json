@@ -1,0 +1,34 @@
+[
+  {
+    "id": "evt-0002",
+    "title": "Concierto Sinfónico de Verano",
+    "category": "musica",
+    "artists": ["Orquesta Filarmónica Nacional"],
+    "city": "Bogotá",
+    "venue": "Teatro Mayor",
+    "datetime": "2025-12-05T19:30:00-05:00",
+    "priceFrom": 120,
+    "currency": "COP",
+    "stock": 850,
+    "soldOut": false,
+    "popularity": 87,
+    "images": ["/assets/evt-0002/cover.jpg"],
+    "description": "Un repertorio de música clásica con obras de Beethoven y Mozart."
+  },
+  {
+    "id": "evt-0003",
+    "title": "Festival Urbano 2025",
+    "category": "festival",
+    "artists": ["Rapero X", "DJ Latina", "Banda Flow"],
+    "city": "Lima",
+    "venue": "Estadio Nacional",
+    "datetime": "2025-11-20T18:00:00-05:00",
+    "priceFrom": 150,
+    "currency": "PEN",
+    "stock": 30000,
+    "soldOut": false,
+    "popularity": 95,
+    "images": ["/assets/evt-0003/cover.jpg"],
+    "description": "Un festival de música urbana con artistas internacionales y nacionales."
+  }
+]
