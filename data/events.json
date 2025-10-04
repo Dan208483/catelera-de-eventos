@@ -12,7 +12,7 @@
     "stock": 850,
     "soldOut": false,
     "popularity": 87,
-    "images": ["assets/evt-0002.jpg"],
+    "images": ["assets/evt-0002/cover.jpg"],
     "description": "Un repertorio de música clásica con obras de Beethoven y Mozart."
   },
   {
