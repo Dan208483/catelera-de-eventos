@@ -30,8 +30,8 @@
     "popularity": 95,
     "images": ["assets/evt-0003/cover.jpg"],
     "description": "Un festival de música urbana con artistas internacionales y nacionales."
-  }
-    {
+  },
+  {
     "id": "evt-0004",
     "title": "Stand-Up Comedy Night",
     "category": "standup",
@@ -51,7 +51,6 @@
     },
     "description": "Una noche de comedia con risas garantizadas."
   },
-
   {
     "id": "evt-0005",
     "title": "Obra de Teatro: La Casa de Bernarda Alba",
@@ -72,7 +71,6 @@
     },
     "description": "Adaptación moderna de la clásica obra de Lorca."
   },
-
   {
     "id": "evt-0006",
     "title": "Maratón Rock al Parque",
@@ -93,7 +91,6 @@
     },
     "description": "El festival gratuito más grande de rock en Latinoamérica."
   },
-
   {
     "id": "evt-0007",
     "title": "Ballet Clásico: El Lago de los Cisnes",
@@ -114,7 +111,6 @@
     },
     "description": "Una de las obras maestras del ballet clásico."
   },
-
   {
     "id": "evt-0008",
     "title": "Conferencia de Tecnología Futuro 2025",
@@ -135,7 +131,6 @@
     },
     "description": "Una cumbre sobre innovación tecnológica y futuro digital."
   },
-
   {
     "id": "evt-0009",
     "title": "Festival de Jazz en la Costa",
@@ -156,7 +151,6 @@
     },
     "description": "Un festival de jazz frente al mar Caribe."
   },
-
   {
     "id": "evt-0010",
     "title": "Cine al Aire Libre: Ciclo de Clásicos",
